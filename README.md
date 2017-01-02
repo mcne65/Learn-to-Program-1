@@ -3,7 +3,7 @@ A public repository containing a large list of PDFs and resources I've compiled
 
 ## C++
 ### Beginners
-* [Programming Principles and Practice Using C++ (by Bjarne Stroustrup, highly recommended)](http://ptgmedia.pearsoncmg.com/images/9780321992789/samplepages/0321992784.pdf)
+* [Programming Principles and Practice Using C++ (by Bjarne Stroustrup, highly recommended)](https://ebooks-it.org/0321992784-ebook.htm)
 * [Thinking in C++](http://iacs-courses.seas.harvard.edu/courses/cs207/resources/TIC2Vone.pdf)
 * [Accelerated C++](http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf)
 * [C++ Primer](http://www4.zippyshare.com/v/9R2PZu3Z/file.html)
