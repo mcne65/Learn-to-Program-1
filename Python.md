@@ -22,7 +22,7 @@
 ### Intermediate
 - [Making Games with Python and Pygame](http://inventwithpython.com/pygame/chapters/)
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
-- [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/html/index.html)#
+- [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/html/index.html)
 - [The Standard Python Library](http://effbot.org/zone/librarybook-index.htm)
 - [Web Applications with Flask](http://flask.pocoo.org/docs/0.12/tutorial/)
 - [Dive into Python 3](http://getpython3.com/diveintopython3/table-of-contents.html#whats-new)
