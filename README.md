@@ -3,3 +3,4 @@ A public repository containing a large list of PDFs and resources I've compiled
 
 ## [C++](C++.md)
 ## [Python](Python.md)
+## [Haskell](Haskell.md)
