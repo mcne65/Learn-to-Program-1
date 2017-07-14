@@ -1,4 +1,5 @@
 ### Beginners
+- [A Byte of Python (Personally recommended tutorial for beginners)](https://python.swaroopch.com)
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Invent your own Computer Games with Python](http://inventwithpython.com/chapters/)
 - [Automate the Boring Stuff](https://automatetheboringstuff.com)
